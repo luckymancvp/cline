@@ -1,0 +1,7 @@
+.vscode/
+*.json
+*.md
+*.png
+src/test/
+*.yml
+assets/
